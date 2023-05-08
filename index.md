@@ -16,4 +16,4 @@ ptintf("good morning")
 -friday
 -saturday
 }
-[shanibmuhammd](https://github.com/shanibmuhammd)
+[shanibmuhammd](https://www.github.com/shanibmuhammd)
